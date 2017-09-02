@@ -1,4 +1,4 @@
-C++ example code pieces
+Code pieces written in C++ for exercising basic programming concepts and the syntax
 
 References:
 1. https://github.com/karan/Projects-Solutions
